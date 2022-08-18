@@ -1,0 +1,2027 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="line_name" attr.type="string" />
+  <key id="d1" for="edge" attr.name="length" attr.type="double" />
+  <key id="d0" for="node" attr.name="coords" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Harrow &amp; Wealdstone">
+      <data key="d0">(515407.3006426541, 189475.85455744521)</data>
+    </node>
+    <node id="Kenton">
+      <data key="d0">(516735.69458146667, 188305.6220407072)</data>
+    </node>
+    <node id="South Kenton">
+      <data key="d0">(517334.23234710074, 187064.75061834045)</data>
+    </node>
+    <node id="North Wembley">
+      <data key="d0">(517668.06124863017, 186199.24048707465)</data>
+    </node>
+    <node id="Wembley Central">
+      <data key="d0">(518250.55285065656, 184987.64423562755)</data>
+    </node>
+    <node id="Stonebridge Park">
+      <data key="d0">(519669.4740517228, 184184.84245997312)</data>
+    </node>
+    <node id="Harlesden">
+      <data key="d0">(520919.93648316036, 183378.70765625202)</data>
+    </node>
+    <node id="Willesden Junction">
+      <data key="d0">(521955.55811896874, 182944.8965154274)</data>
+    </node>
+    <node id="Kensal Green">
+      <data key="d0">(523249.0147372222, 182789.66249438334)</data>
+    </node>
+    <node id="Queen's Park">
+      <data key="d0">(524563.8048707286, 183202.2632752654)</data>
+    </node>
+    <node id="Kilburn Park">
+      <data key="d0">(525349.3051880816, 183350.85539055616)</data>
+    </node>
+    <node id="Maida Vale">
+      <data key="d0">(525943.8104150986, 182770.03102564445)</data>
+    </node>
+    <node id="Warwick Avenue">
+      <data key="d0">(526084.1651672786, 182050.004674852)</data>
+    </node>
+    <node id="Paddington TfL">
+      <data key="d0">(526686.1125684951, 181333.57733619132)</data>
+    </node>
+    <node id="Edgware Road">
+      <data key="d0">(527119.4948221478, 181720.47978190467)</data>
+    </node>
+    <node id="Marylebone LU">
+      <data key="d0">(527529.13225737, 181972.08136504667)</data>
+    </node>
+    <node id="Baker Street">
+      <data key="d0">(528063.3393097348, 182010.5333398176)</data>
+    </node>
+    <node id="Regent's Park">
+      <data key="d0">(528685.8859076175, 182131.57490586326)</data>
+    </node>
+    <node id="Oxford Circus">
+      <data key="d0">(529015.4430721067, 181234.2241558549)</data>
+    </node>
+    <node id="Piccadilly Circus">
+      <data key="d0">(529629.9696376707, 180654.64128605882)</data>
+    </node>
+    <node id="Charing Cross LU">
+      <data key="d0">(530059.3405291982, 180373.6881384381)</data>
+    </node>
+    <node id="Embankment">
+      <data key="d0">(530392.32772242, 180346.454753894)</data>
+    </node>
+    <node id="Waterloo LU">
+      <data key="d0">(530974.0910233686, 179921.09873829264)</data>
+    </node>
+    <node id="Lambeth North">
+      <data key="d0">(531129.6575184558, 179461.0063659179)</data>
+    </node>
+    <node id="Elephant &amp; Castle LU">
+      <data key="d0">(531954.7894316212, 179092.53618107532)</data>
+    </node>
+    <node id="West Acton">
+      <data key="d0">(519396.4966177136, 181320.53600355436)</data>
+    </node>
+    <node id="Ealing Broadway">
+      <data key="d0">(517951.5264223998, 180953.3962072712)</data>
+    </node>
+    <node id="North Acton">
+      <data key="d0">(520831.6447646859, 181956.23485728912)</data>
+    </node>
+    <node id="West Ruislip">
+      <data key="d0">(508377.63766211295, 186796.26829912647)</data>
+    </node>
+    <node id="Ruislip Gardens">
+      <data key="d0">(510274.96303267614, 185847.93603156926)</data>
+    </node>
+    <node id="South Ruislip">
+      <data key="d0">(511067.68775256537, 185452.8677318886)</data>
+    </node>
+    <node id="Northolt">
+      <data key="d0">(513183.84620711236, 184537.88584416185)</data>
+    </node>
+    <node id="Greenford">
+      <data key="d0">(514881.14881801384, 183885.81765838724)</data>
+    </node>
+    <node id="Perivale">
+      <data key="d0">(516367.65635744407, 183313.49461914203)</data>
+    </node>
+    <node id="Hanger Lane">
+      <data key="d0">(518485.2444701355, 182645.67699126614)</data>
+    </node>
+    <node id="East Acton">
+      <data key="d0">(521691.8527282366, 181227.30740708666)</data>
+    </node>
+    <node id="White City">
+      <data key="d0">(523313.5094514196, 180732.60128608742)</data>
+    </node>
+    <node id="Shepherd's Bush LU">
+      <data key="d0">(523777.2491028594, 179895.78024284542)</data>
+    </node>
+    <node id="Holland Park">
+      <data key="d0">(524627.1875986009, 180231.0631897372)</data>
+    </node>
+    <node id="Notting Hill Gate">
+      <data key="d0">(525284.4693677047, 180461.21547897242)</data>
+    </node>
+    <node id="Queensway">
+      <data key="d0">(525896.0483197575, 180621.0494660876)</data>
+    </node>
+    <node id="Lancaster Gate">
+      <data key="d0">(526730.8301189523, 180794.3392868059)</data>
+    </node>
+    <node id="Marble Arch">
+      <data key="d0">(527927.2306660253, 181009.97343957587)</data>
+    </node>
+    <node id="Bond Street">
+      <data key="d0">(528539.0534513217, 181112.82868964114)</data>
+    </node>
+    <node id="Tottenham Court Road">
+      <data key="d0">(529813.9771409711, 181383.59716010466)</data>
+    </node>
+    <node id="Holborn">
+      <data key="d0">(530528.559720361, 181529.60028516973)</data>
+    </node>
+    <node id="Chancery Lane">
+      <data key="d0">(531086.0383435467, 181599.20772377582)</data>
+    </node>
+    <node id="St. Paul's">
+      <data key="d0">(532110.9162499555, 181271.13368536753)</data>
+    </node>
+    <node id="Bank and Monument">
+      <data key="d0">(532808.7484927041, 180969.3937925045)</data>
+    </node>
+    <node id="Liverpool Street LU">
+      <data key="d0">(533094.0268173318, 181561.09838803217)</data>
+    </node>
+    <node id="Bethnal Green LU">
+      <data key="d0">(534987.480748422, 182743.12999648)</data>
+    </node>
+    <node id="Mile End">
+      <data key="d0">(536522.8389029178, 182548.59411499347)</data>
+    </node>
+    <node id="Stratford">
+      <data key="d0">(538524.3888327449, 184398.67002632836)</data>
+    </node>
+    <node id="Leyton">
+      <data key="d0">(538372.8974112028, 186079.08811245702)</data>
+    </node>
+    <node id="Leytonstone">
+      <data key="d0">(539293.6844125035, 187434.16551840538)</data>
+    </node>
+    <node id="Snaresbrook">
+      <data key="d0">(540164.9361679577, 188810.15584754554)</data>
+    </node>
+    <node id="South Woodford">
+      <data key="d0">(540537.5760690768, 190067.07636106154)</data>
+    </node>
+    <node id="Woodford">
+      <data key="d0">(540940.071871775, 191716.7805791804)</data>
+    </node>
+    <node id="Buckhurst Hill">
+      <data key="d0">(541775.7960515816, 193887.0000133529)</data>
+    </node>
+    <node id="Loughton">
+      <data key="d0">(542312.9827845523, 195617.60250462766)</data>
+    </node>
+    <node id="Debden">
+      <data key="d0">(544259.8449328659, 196110.39245562616)</data>
+    </node>
+    <node id="Theydon Bois">
+      <data key="d0">(545533.7018269303, 199090.0992718247)</data>
+    </node>
+    <node id="Epping">
+      <data key="d0">(546243.9571496719, 201607.95484564855)</data>
+    </node>
+    <node id="Wanstead">
+      <data key="d0">(540672.9782558607, 188260.65597320127)</data>
+    </node>
+    <node id="Redbridge">
+      <data key="d0">(541834.186675984, 188370.56537904346)</data>
+    </node>
+    <node id="Gants Hill">
+      <data key="d0">(543284.2884123337, 188438.74108106876)</data>
+    </node>
+    <node id="Newbury Park">
+      <data key="d0">(544922.4703491172, 188372.789665667)</data>
+    </node>
+    <node id="Barkingside">
+      <data key="d0">(544795.7977077564, 189487.84517719486)</data>
+    </node>
+    <node id="Fairlop">
+      <data key="d0">(544938.5179408072, 190638.18736265838)</data>
+    </node>
+    <node id="Hainault">
+      <data key="d0">(545077.1529180729, 191505.81574705825)</data>
+    </node>
+    <node id="Grange Hill">
+      <data key="d0">(544981.0065557065, 192550.495905853)</data>
+    </node>
+    <node id="Chigwell">
+      <data key="d0">(543736.0358692724, 193038.68234393664)</data>
+    </node>
+    <node id="Roding Valley">
+      <data key="d0">(541601.3994449577, 192898.30456135998)</data>
+    </node>
+    <node id="South Kensington">
+      <data key="d0">(526936.099773122, 178814.99207851745)</data>
+    </node>
+    <node id="Sloane Square">
+      <data key="d0">(528077.4375318707, 178655.6980947178)</data>
+    </node>
+    <node id="Gloucester Road">
+      <data key="d0">(526201.1478592665, 178841.35182347096)</data>
+    </node>
+    <node id="High Street Kensington">
+      <data key="d0">(525545.4905269354, 179548.69511107367)</data>
+    </node>
+    <node id="Bayswater">
+      <data key="d0">(525848.8749261317, 180823.79925051634)</data>
+    </node>
+    <node id="Victoria LU">
+      <data key="d0">(528989.160705909, 179124.96302728722)</data>
+    </node>
+    <node id="St. James's Park">
+      <data key="d0">(529652.8023187045, 179503.87536318798)</data>
+    </node>
+    <node id="Westminster">
+      <data key="d0">(530175.2573717856, 179658.04764321534)</data>
+    </node>
+    <node id="Temple">
+      <data key="d0">(530993.2547760829, 180812.33266326925)</data>
+    </node>
+    <node id="Blackfriars LU">
+      <data key="d0">(531727.424144223, 180910.57141668536)</data>
+    </node>
+    <node id="Mansion House">
+      <data key="d0">(532378.3007973342, 180942.6618089585)</data>
+    </node>
+    <node id="Cannon Street LU">
+      <data key="d0">(532617.8708513875, 180891.13182795385)</data>
+    </node>
+    <node id="Tower Hill">
+      <data key="d0">(533494.9145187354, 180738.12736569892)</data>
+    </node>
+    <node id="Aldgate">
+      <data key="d0">(533623.5641644194, 181218.49706238398)</data>
+    </node>
+    <node id="Great Portland Street">
+      <data key="d0">(528863.6741602508, 182179.42326979758)</data>
+    </node>
+    <node id="Euston Square">
+      <data key="d0">(529440.2487320735, 182399.64153231838)</data>
+    </node>
+    <node id="King's Cross St. Pancras">
+      <data key="d0">(530299.5672470356, 182969.18209262053)</data>
+    </node>
+    <node id="Farringdon">
+      <data key="d0">(531597.2702457244, 181845.59430468688)</data>
+    </node>
+    <node id="Barbican">
+      <data key="d0">(532074.0858346864, 181858.85716198973)</data>
+    </node>
+    <node id="Moorgate">
+      <data key="d0">(532739.3974293096, 181643.04185224505)</data>
+    </node>
+    <node id="Hammersmith">
+      <data key="d0">(523377.08389789803, 178624.18457495343)</data>
+    </node>
+    <node id="Goldhawk Road">
+      <data key="d0">(523182.01399952325, 179602.78097890678)</data>
+    </node>
+    <node id="Shepherd's Bush Market">
+      <data key="d0">(523191.8299465804, 180031.3861021985)</data>
+    </node>
+    <node id="Wood Lane">
+      <data key="d0">(523365.67707452876, 180511.54910828325)</data>
+    </node>
+    <node id="Latimer Road">
+      <data key="d0">(523759.3056289685, 180890.84789377445)</data>
+    </node>
+    <node id="Ladbroke Grove">
+      <data key="d0">(524232.22014480835, 181333.16075446142)</data>
+    </node>
+    <node id="Westbourne Park">
+      <data key="d0">(524876.6795981402, 181758.50377397006)</data>
+    </node>
+    <node id="Royal Oak">
+      <data key="d0">(525819.7888684466, 181571.91612367734)</data>
+    </node>
+    <node id="Earl's Court">
+      <data key="d0">(525466.7699525921, 178494.18714144814)</data>
+    </node>
+    <node id="West Kensington">
+      <data key="d0">(524648.9367641918, 178386.72747832106)</data>
+    </node>
+    <node id="Barons Court">
+      <data key="d0">(524110.79125492484, 178324.96926404926)</data>
+    </node>
+    <node id="Ravenscourt Park">
+      <data key="d0">(522569.78804714704, 178716.7466993929)</data>
+    </node>
+    <node id="Stamford Brook">
+      <data key="d0">(521870.8527932471, 178791.35819618526)</data>
+    </node>
+    <node id="Turnham Green">
+      <data key="d0">(521266.7153359796, 178799.76095696603)</data>
+    </node>
+    <node id="Chiswick Park">
+      <data key="d0">(520324.7523692848, 178714.6227006014)</data>
+    </node>
+    <node id="Acton Town">
+      <data key="d0">(519484.9049966821, 179592.1006670922)</data>
+    </node>
+    <node id="Ealing Common">
+      <data key="d0">(518892.42771158705, 180386.35168490512)</data>
+    </node>
+    <node id="Richmond">
+      <data key="d0">(518110.27721838746, 175185.8913887801)</data>
+    </node>
+    <node id="Kew Gardens">
+      <data key="d0">(519197.7956052223, 176740.69416510273)</data>
+    </node>
+    <node id="Gunnersbury">
+      <data key="d0">(519828.6784560993, 178372.9935379958)</data>
+    </node>
+    <node id="West Brompton">
+      <data key="d0">(525387.3623311985, 177996.8755041185)</data>
+    </node>
+    <node id="Wimbledon">
+      <data key="d0">(524824.2279421778, 170706.60460315098)</data>
+    </node>
+    <node id="Wimbledon Park">
+      <data key="d0">(525243.3504907718, 172143.70086859725)</data>
+    </node>
+    <node id="Southfields">
+      <data key="d0">(524721.5626849068, 173362.26279759523)</data>
+    </node>
+    <node id="East Putney">
+      <data key="d0">(524382.066726326, 174861.01524953183)</data>
+    </node>
+    <node id="Putney Bridge">
+      <data key="d0">(524512.74912682, 175896.3077542861)</data>
+    </node>
+    <node id="Parsons Green">
+      <data key="d0">(525030.6522039139, 176683.16923332447)</data>
+    </node>
+    <node id="Fulham Broadway">
+      <data key="d0">(525420.4882535225, 177235.95504728187)</data>
+    </node>
+    <node id="Aldgate East">
+      <data key="d0">(533886.8526719126, 181342.3600708875)</data>
+    </node>
+    <node id="Whitechapel">
+      <data key="d0">(534628.3811538401, 181857.46315590962)</data>
+    </node>
+    <node id="Stepney Green">
+      <data key="d0">(535612.2252974329, 182118.9448959187)</data>
+    </node>
+    <node id="Bow Road">
+      <data key="d0">(537115.0723258212, 182733.2841917965)</data>
+    </node>
+    <node id="Bromley-by-Bow">
+      <data key="d0">(538041.0595055358, 182520.66357835947)</data>
+    </node>
+    <node id="West Ham">
+      <data key="d0">(539138.9310534714, 182951.6242073365)</data>
+    </node>
+    <node id="Plaistow">
+      <data key="d0">(539974.5301421758, 183288.12269867572)</data>
+    </node>
+    <node id="Upton Park">
+      <data key="d0">(541199.4821921758, 183774.6190150809)</data>
+    </node>
+    <node id="East Ham">
+      <data key="d0">(542407.3424522543, 184255.58918856195)</data>
+    </node>
+    <node id="Barking">
+      <data key="d0">(544430.6109696486, 184341.36318069353)</data>
+    </node>
+    <node id="Upney">
+      <data key="d0">(545719.3400353997, 184240.92537833867)</data>
+    </node>
+    <node id="Becontree">
+      <data key="d0">(547622.5600409403, 184524.83489004942)</data>
+    </node>
+    <node id="Dagenham Heathway">
+      <data key="d0">(549034.8955005701, 184716.2102025632)</data>
+    </node>
+    <node id="Dagenham East">
+      <data key="d0">(550270.7886562541, 185029.53450413834)</data>
+    </node>
+    <node id="Elm Park">
+      <data key="d0">(552458.8912428473, 185705.0160519394)</data>
+    </node>
+    <node id="Hornchurch">
+      <data key="d0">(553905.4646987179, 186234.22757019894)</data>
+    </node>
+    <node id="Upminster Bridge">
+      <data key="d0">(555010.4383468148, 186749.70919509308)</data>
+    </node>
+    <node id="Upminster">
+      <data key="d0">(556278.6390936932, 186864.21102784382)</data>
+    </node>
+    <node id="Kensington (Olympia)">
+      <data key="d0">(524379.5327465492, 179140.90516744496)</data>
+    </node>
+    <node id="Wembley Park">
+      <data key="d0">(519316.5590174915, 186389.32981656672)</data>
+    </node>
+    <node id="Kingsbury">
+      <data key="d0">(519359.9688603217, 188721.22027255013)</data>
+    </node>
+    <node id="Queensbury">
+      <data key="d0">(518811.3613368616, 189760.50737704366)</data>
+    </node>
+    <node id="Canons Park">
+      <data key="d0">(518183.29968291725, 191257.26260848)</data>
+    </node>
+    <node id="Stanmore">
+      <data key="d0">(517580.4596464033, 192537.99948098673)</data>
+    </node>
+    <node id="Canning Town">
+      <data key="d0">(539444.1196470185, 181368.57913729257)</data>
+    </node>
+    <node id="North Greenwich">
+      <data key="d0">(539189.2108512281, 179809.60035511584)</data>
+    </node>
+    <node id="Canary Wharf LU">
+      <data key="d0">(537617.4391264146, 180150.4073841569)</data>
+    </node>
+    <node id="Canada Water">
+      <data key="d0">(535504.1039329024, 179477.06722509925)</data>
+    </node>
+    <node id="Bermondsey">
+      <data key="d0">(534502.7607083861, 179420.400267179)</data>
+    </node>
+    <node id="London Bridge LU">
+      <data key="d0">(532684.118017741, 180183.89658802713)</data>
+    </node>
+    <node id="Southwark">
+      <data key="d0">(531610.1677530061, 180051.36329176498)</data>
+    </node>
+    <node id="Green Park">
+      <data key="d0">(528968.085643932, 180259.31506057666)</data>
+    </node>
+    <node id="St. John's Wood">
+      <data key="d0">(526742.9394995566, 183349.44880081003)</data>
+    </node>
+    <node id="Swiss Cottage">
+      <data key="d0">(526676.9591458273, 184294.18653819687)</data>
+    </node>
+    <node id="Finchley Road">
+      <data key="d0">(526234.447246395, 184732.86531208985)</data>
+    </node>
+    <node id="Neasden">
+      <data key="d0">(521426.75357920176, 185371.19515501917)</data>
+    </node>
+    <node id="Dollis Hill">
+      <data key="d0">(522176.48011387105, 185156.80043246993)</data>
+    </node>
+    <node id="Willesden Green">
+      <data key="d0">(523388.43642506225, 184880.0900637848)</data>
+    </node>
+    <node id="Kilburn">
+      <data key="d0">(524543.4691066165, 184651.84987636458)</data>
+    </node>
+    <node id="West Hampstead LU">
+      <data key="d0">(525548.3405309449, 184657.89841578878)</data>
+    </node>
+    <node id="Uxbridge">
+      <data key="d0">(505607.22735128173, 184156.93759421847)</data>
+    </node>
+    <node id="Hillingdon">
+      <data key="d0">(507546.2923737053, 185008.8546307914)</data>
+    </node>
+    <node id="Ickenham">
+      <data key="d0">(508091.24314072763, 185937.96991336456)</data>
+    </node>
+    <node id="Ruislip">
+      <data key="d0">(509484.64691226784, 187013.7248693384)</data>
+    </node>
+    <node id="Ruislip Manor">
+      <data key="d0">(510120.308109728, 187242.73415717884)</data>
+    </node>
+    <node id="Eastcote">
+      <data key="d0">(511173.4191758317, 187632.91358706338)</data>
+    </node>
+    <node id="Rayners Lane">
+      <data key="d0">(512964.2279389012, 187514.53526324994)</data>
+    </node>
+    <node id="West Harrow">
+      <data key="d0">(514167.47550737206, 188009.07543506467)</data>
+    </node>
+    <node id="Harrow-on-the-Hill">
+      <data key="d0">(515377.6582260665, 188019.43053701654)</data>
+    </node>
+    <node id="Amersham">
+      <data key="d0">(496318.6584179595, 198187.1375162449)</data>
+    </node>
+    <node id="Chalfont &amp; Latimer">
+      <data key="d0">(499626.8012169689, 197565.3867476547)</data>
+    </node>
+    <node id="Chorleywood">
+      <data key="d0">(502594.6744388367, 196082.60633698007)</data>
+    </node>
+    <node id="Rickmansworth">
+      <data key="d0">(505724.38861677784, 194589.49449832656)</data>
+    </node>
+    <node id="Moor Park">
+      <data key="d0">(508610.3385518464, 193492.67327807663)</data>
+    </node>
+    <node id="Northwood">
+      <data key="d0">(509244.52774833265, 191393.62775570864)</data>
+    </node>
+    <node id="Northwood Hills">
+      <data key="d0">(510292.1955039321, 190256.91730896285)</data>
+    </node>
+    <node id="Pinner">
+      <data key="d0">(512260.8061859908, 189448.83964316407)</data>
+    </node>
+    <node id="North Harrow">
+      <data key="d0">(513527.68266860803, 188618.76740719745)</data>
+    </node>
+    <node id="Northwick Park">
+      <data key="d0">(516663.3094894786, 187965.45117860194)</data>
+    </node>
+    <node id="Preston Road">
+      <data key="d0">(518248.1206411089, 187288.48990193784)</data>
+    </node>
+    <node id="Croxley">
+      <data key="d0">(507916.28913538856, 195410.99115904653)</data>
+    </node>
+    <node id="Watford">
+      <data key="d0">(509572.45438266045, 196584.02027799905)</data>
+    </node>
+    <node id="Chesham">
+      <data key="d0">(496082.4999743216, 201651.8319356328)</data>
+    </node>
+    <node id="Edgware">
+      <data key="d0">(519499.2396397315, 191981.65318697237)</data>
+    </node>
+    <node id="Burnt Oak">
+      <data key="d0">(520328.4361071267, 190761.25153215084)</data>
+    </node>
+    <node id="Colindale">
+      <data key="d0">(521329.6069664533, 189951.06754335365)</data>
+    </node>
+    <node id="Hendon Central">
+      <data key="d0">(523003.02180941484, 188632.0914799433)</data>
+    </node>
+    <node id="Brent Cross">
+      <data key="d0">(523889.6553484171, 187937.89941709646)</data>
+    </node>
+    <node id="Golders Green">
+      <data key="d0">(525250.3577586045, 187492.52800999006)</data>
+    </node>
+    <node id="Hampstead">
+      <data key="d0">(526395.8520867131, 185740.21594932268)</data>
+    </node>
+    <node id="Belsize Park">
+      <data key="d0">(527348.1719610952, 185083.12477608485)</data>
+    </node>
+    <node id="Chalk Farm">
+      <data key="d0">(528144.0912258549, 184427.349006443)</data>
+    </node>
+    <node id="Camden Town">
+      <data key="d0">(528915.6761057859, 183861.4172658652)</data>
+    </node>
+    <node id="Euston LU">
+      <data key="d0">(529519.0438045677, 182707.4793317223)</data>
+    </node>
+    <node id="Angel">
+      <data key="d0">(531462.2532008558, 183134.5362660624)</data>
+    </node>
+    <node id="Old Street">
+      <data key="d0">(532769.4916245361, 182479.38030575175)</data>
+    </node>
+    <node id="Borough">
+      <data key="d0">(532433.5125593581, 179740.41303858772)</data>
+    </node>
+    <node id="Kennington">
+      <data key="d0">(531626.074640682, 178353.4468277492)</data>
+    </node>
+    <node id="Oval">
+      <data key="d0">(531172.945788199, 177564.04000947892)</data>
+    </node>
+    <node id="Stockwell">
+      <data key="d0">(530496.8577275898, 176472.9299082592)</data>
+    </node>
+    <node id="Clapham North">
+      <data key="d0">(530003.2357612093, 175674.45977019466)</data>
+    </node>
+    <node id="Clapham Common">
+      <data key="d0">(529477.9414317829, 175312.59350614576)</data>
+    </node>
+    <node id="Clapham South">
+      <data key="d0">(528809.5304105566, 174269.33708665415)</data>
+    </node>
+    <node id="Balham LU">
+      <data key="d0">(528461.0108231895, 173192.47627582197)</data>
+    </node>
+    <node id="Tooting Bec">
+      <data key="d0">(528019.1423851007, 172339.45258974988)</data>
+    </node>
+    <node id="Tooting Broadway">
+      <data key="d0">(527447.7673624855, 171451.32226368086)</data>
+    </node>
+    <node id="Colliers Wood">
+      <data key="d0">(526785.8177765852, 170363.23894381872)</data>
+    </node>
+    <node id="South Wimbledon">
+      <data key="d0">(525816.7130460087, 170029.18231162784)</data>
+    </node>
+    <node id="Morden">
+      <data key="d0">(525671.787970666, 168580.97781360708)</data>
+    </node>
+    <node id="Finchley Central">
+      <data key="d0">(525321.0077542675, 190641.74882288766)</data>
+    </node>
+    <node id="Mill Hill East">
+      <data key="d0">(524039.53014887875, 191452.19329230144)</data>
+    </node>
+    <node id="High Barnet">
+      <data key="d0">(524984.0745331835, 196224.86558628542)</data>
+    </node>
+    <node id="Totteridge &amp; Whetstone">
+      <data key="d0">(526124.6119335978, 193964.5767120752)</data>
+    </node>
+    <node id="Woodside Park">
+      <data key="d0">(525711.7406919176, 192555.3464970201)</data>
+    </node>
+    <node id="West Finchley">
+      <data key="d0">(525549.0148256244, 191627.18588218454)</data>
+    </node>
+    <node id="East Finchley">
+      <data key="d0">(527208.460209953, 189229.19802861183)</data>
+    </node>
+    <node id="Highgate">
+      <data key="d0">(528582.8838344584, 188159.82611429587)</data>
+    </node>
+    <node id="Archway">
+      <data key="d0">(529382.4157030241, 186814.3955905792)</data>
+    </node>
+    <node id="Tufnell Park">
+      <data key="d0">(529151.0771717577, 185855.63926526188)</data>
+    </node>
+    <node id="Kentish Town">
+      <data key="d0">(529009.5030708548, 185129.00243056688)</data>
+    </node>
+    <node id="Mornington Crescent">
+      <data key="d0">(529207.2313657163, 183358.90558751533)</data>
+    </node>
+    <node id="Warren Street">
+      <data key="d0">(529265.1940102909, 182280.5132808388)</data>
+    </node>
+    <node id="Goodge Street">
+      <data key="d0">(529536.4597070391, 181826.90797300707)</data>
+    </node>
+    <node id="Leicester Square">
+      <data key="d0">(529970.0219149096, 180803.96969096578)</data>
+    </node>
+    <node id="South Ealing">
+      <data key="d0">(517602.36260065803, 179368.5782469886)</data>
+    </node>
+    <node id="Knightsbridge">
+      <data key="d0">(527769.3556993835, 179678.04517422273)</data>
+    </node>
+    <node id="Hyde Park Corner">
+      <data key="d0">(528323.1601886255, 179842.77840185515)</data>
+    </node>
+    <node id="Covent Garden">
+      <data key="d0">(530262.708826035, 181015.90892058832)</data>
+    </node>
+    <node id="Russell Square">
+      <data key="d0">(530233.4538160941, 182137.41710646072)</data>
+    </node>
+    <node id="Caledonian Road">
+      <data key="d0">(530566.1625749511, 184953.28296987107)</data>
+    </node>
+    <node id="Holloway Road">
+      <data key="d0">(530925.1833510422, 185447.34693908656)</data>
+    </node>
+    <node id="Arsenal">
+      <data key="d0">(531250.8778294799, 186022.5996663263)</data>
+    </node>
+    <node id="Finsbury Park">
+      <data key="d0">(531353.3782590172, 186783.54791950254)</data>
+    </node>
+    <node id="Manor House">
+      <data key="d0">(532040.0412932044, 187452.60417260806)</data>
+    </node>
+    <node id="Turnpike Lane">
+      <data key="d0">(531521.1551138991, 189648.83811839652)</data>
+    </node>
+    <node id="Wood Green">
+      <data key="d0">(531022.2583187231, 190422.7358533569)</data>
+    </node>
+    <node id="Bounds Green">
+      <data key="d0">(529998.8488325537, 191469.86436782446)</data>
+    </node>
+    <node id="Arnos Grove">
+      <data key="d0">(529339.6287269488, 192500.0897966639)</data>
+    </node>
+    <node id="Southgate">
+      <data key="d0">(529672.3051250046, 194273.2515577929)</data>
+    </node>
+    <node id="Oakwood">
+      <data key="d0">(529375.2236970796, 195939.62069824507)</data>
+    </node>
+    <node id="Cockfosters">
+      <data key="d0">(528127.3612817102, 196378.38095584128)</data>
+    </node>
+    <node id="South Harrow">
+      <data key="d0">(514312.1519816153, 186373.56009984686)</data>
+    </node>
+    <node id="Sudbury Hill">
+      <data key="d0">(515407.7929346491, 185544.52578027535)</data>
+    </node>
+    <node id="Sudbury Town">
+      <data key="d0">(516870.8412475529, 184894.8051895774)</data>
+    </node>
+    <node id="Alperton">
+      <data key="d0">(518030.91608319135, 183776.369709028)</data>
+    </node>
+    <node id="Park Royal">
+      <data key="d0">(519142.34582229203, 182241.0243798775)</data>
+    </node>
+    <node id="North Ealing">
+      <data key="d0">(518847.58238194603, 181251.83560541976)</data>
+    </node>
+    <node id="Heathrow Terminals 123 LU">
+      <data key="d0">(507403.9792025086, 175969.43797283946)</data>
+    </node>
+    <node id="Hatton Cross">
+      <data key="d0">(509632.25358748494, 175373.3957235925)</data>
+    </node>
+    <node id="Hounslow West">
+      <data key="d0">(512162.6123789472, 176185.60855876014)</data>
+    </node>
+    <node id="Hounslow Central">
+      <data key="d0">(513559.4543479651, 175969.65572776977)</data>
+    </node>
+    <node id="Hounslow East">
+      <data key="d0">(514256.12169179454, 176199.12252813787)</data>
+    </node>
+    <node id="Osterley">
+      <data key="d0">(514515.31339969876, 177083.43967186863)</data>
+    </node>
+    <node id="Boston Manor">
+      <data key="d0">(516391.9979929814, 178753.16299242876)</data>
+    </node>
+    <node id="Northfields">
+      <data key="d0">(517185.3175132264, 179200.33765863546)</data>
+    </node>
+    <node id="Heathrow Terminal 5 LU">
+      <data key="d0">(504965.94122046826, 175923.36128705548)</data>
+    </node>
+    <node id="Brixton LU">
+      <data key="d0">(531054.1492209797, 175421.9307214191)</data>
+    </node>
+    <node id="Vauxhall LU">
+      <data key="d0">(530420.2721309647, 177894.3861118151)</data>
+    </node>
+    <node id="Pimlico">
+      <data key="d0">(529723.5711402855, 178312.66108136834)</data>
+    </node>
+    <node id="Highbury &amp; Islington">
+      <data key="d0">(531583.572207876, 184826.71640125837)</data>
+    </node>
+    <node id="Seven Sisters">
+      <data key="d0">(533644.3873990012, 188953.43682625424)</data>
+    </node>
+    <node id="Tottenham Hale LU">
+      <data key="d0">(534503.7382975069, 189513.6588734698)</data>
+    </node>
+    <node id="Blackhorse Road">
+      <data key="d0">(535835.9301545534, 189390.05440855853)</data>
+    </node>
+    <node id="Walthamstow Central">
+      <data key="d0">(537272.2950907431, 189083.7719596477)</data>
+    </node>
+    <edge source="Harrow &amp; Wealdstone" target="Kenton">
+      <data key="d1">1780.6719958813244</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Kenton" target="South Kenton">
+      <data key="d1">1386.9692312837703</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="South Kenton" target="North Wembley">
+      <data key="d1">935.7451700868527</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="North Wembley" target="Wembley Central">
+      <data key="d1">1348.156442480471</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Wembley Central" target="Stonebridge Park">
+      <data key="d1">1718.0984669684594</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Stonebridge Park" target="Harlesden">
+      <data key="d1">1494.9487766660316</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Harlesden" target="Willesden Junction">
+      <data key="d1">1144.2331916336182</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Willesden Junction" target="Kensal Green">
+      <data key="d1">1352.2488873707134</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Kensal Green" target="Queen's Park">
+      <data key="d1">1384.625661069517</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Queen's Park" target="Kilburn Park">
+      <data key="d1">809.8309508921109</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Kilburn Park" target="Maida Vale">
+      <data key="d1">851.7815229277678</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Maida Vale" target="Warwick Avenue">
+      <data key="d1">787.6125699511829</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Warwick Avenue" target="Paddington TfL">
+      <data key="d1">978.2154518139412</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Paddington TfL" target="Edgware Road">
+      <data key="d1">728.1517775074699</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Paddington TfL" target="Bayswater">
+      <data key="d1">1157.720048558009</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Paddington TfL" target="Royal Oak">
+      <data key="d1">970.9150014610628</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Edgware Road" target="Marylebone LU">
+      <data key="d1">602.8833428862459</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Edgware Road" target="Baker Street">
+      <data key="d1">1034.8403674645297</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Marylebone LU" target="Baker Street">
+      <data key="d1">538.2983257941669</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Baker Street" target="Regent's Park">
+      <data key="d1">795.5400496348876</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Baker Street" target="Great Portland Street">
+      <data key="d1">829.5435436430772</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Baker Street" target="Bond Street">
+      <data key="d1">1678.6665457015786</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Baker Street" target="St. John's Wood">
+      <data key="d1">2138.9300929284195</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Baker Street" target="Finchley Road">
+      <data key="d1">3534.6372473147617</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Regent's Park" target="Oxford Circus">
+      <data key="d1">978.0506280252478</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Oxford Circus" target="Piccadilly Circus">
+      <data key="d1">963.8300743986296</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Oxford Circus" target="Bond Street">
+      <data key="d1">497.1813255792058</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Oxford Circus" target="Tottenham Court Road">
+      <data key="d1">815.6906370765927</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Oxford Circus" target="Green Park">
+      <data key="d1">1010.5664752575606</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Oxford Circus" target="Warren Street">
+      <data key="d1">1149.7144464130545</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Piccadilly Circus" target="Charing Cross LU">
+      <data key="d1">571.808439747874</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Piccadilly Circus" target="Green Park">
+      <data key="d1">777.6260868051975</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Piccadilly Circus" target="Leicester Square">
+      <data key="d1">374.6914057698147</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Charing Cross LU" target="Embankment">
+      <data key="d1">340.3308204589119</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Charing Cross LU" target="Leicester Square">
+      <data key="d1">462.074816843946</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Embankment" target="Waterloo LU">
+      <data key="d1">773.6623015156531</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Embankment" target="Westminster">
+      <data key="d1">753.7645436403577</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Embankment" target="Temple">
+      <data key="d1">794.594002561262</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Waterloo LU" target="Lambeth North">
+      <data key="d1">573.6890561756097</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Waterloo LU" target="Southwark">
+      <data key="d1">656.4269295165988</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Waterloo LU" target="Westminster">
+      <data key="d1">850.3600263607974</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Waterloo LU" target="Kennington">
+      <data key="d1">1760.1985166073814</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Waterloo LU" target="Bank and Monument">
+      <data key="d1">2543.1515636399986</data>
+      <data key="d2">Waterloo &amp; City</data>
+    </edge>
+    <edge source="Lambeth North" target="Elephant &amp; Castle LU">
+      <data key="d1">995.7202823036104</data>
+      <data key="d2">Bakerloo</data>
+    </edge>
+    <edge source="Elephant &amp; Castle LU" target="Borough">
+      <data key="d1">821.1401522028189</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Elephant &amp; Castle LU" target="Kennington">
+      <data key="d1">839.5683892248372</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="West Acton" target="Ealing Broadway">
+      <data key="d1">1593.8205474612955</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="West Acton" target="North Acton">
+      <data key="d1">1811.4947747425283</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Ealing Broadway" target="Ealing Common">
+      <data key="d1">1542.2154635950096</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="North Acton" target="Hanger Lane">
+      <data key="d1">2454.2933486674083</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="North Acton" target="East Acton">
+      <data key="d1">1180.5193163423091</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="West Ruislip" target="Ruislip Gardens">
+      <data key="d1">2124.3931964863423</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Ruislip Gardens" target="South Ruislip">
+      <data key="d1">885.8857261563726</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="South Ruislip" target="Northolt">
+      <data key="d1">2323.990520710441</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Northolt" target="Greenford">
+      <data key="d1">1818.4662603471859</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Greenford" target="Perivale">
+      <data key="d1">1596.4351211844128</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Perivale" target="Hanger Lane">
+      <data key="d1">2229.8852148018664</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="East Acton" target="White City">
+      <data key="d1">1957.184515884412</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="White City" target="Shepherd's Bush LU">
+      <data key="d1">1220.0241167250972</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Shepherd's Bush LU" target="Holland Park">
+      <data key="d1">931.2988958772878</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Holland Park" target="Notting Hill Gate">
+      <data key="d1">699.733462969547</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Notting Hill Gate" target="Queensway">
+      <data key="d1">638.3229308800298</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Notting Hill Gate" target="High Street Kensington">
+      <data key="d1">960.6455349941293</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Notting Hill Gate" target="Bayswater">
+      <data key="d1">750.0482410997977</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Queensway" target="Lancaster Gate">
+      <data key="d1">858.1496214616731</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Lancaster Gate" target="Marble Arch">
+      <data key="d1">1218.6021847604447</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Marble Arch" target="Bond Street">
+      <data key="d1">620.735005710948</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Bond Street" target="Green Park">
+      <data key="d1">1130.8957274790537</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Tottenham Court Road" target="Holborn">
+      <data key="d1">732.9239618671819</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Tottenham Court Road" target="Goodge Street">
+      <data key="d1">528.8638932385675</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Tottenham Court Road" target="Leicester Square">
+      <data key="d1">604.1567242285063</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Holborn" target="Chancery Lane">
+      <data key="d1">565.4837123767575</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Holborn" target="Covent Garden">
+      <data key="d1">632.9405713221345</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Holborn" target="Russell Square">
+      <data key="d1">706.4343152141802</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Chancery Lane" target="St. Paul's">
+      <data key="d1">1095.1511969319665</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="St. Paul's" target="Bank and Monument">
+      <data key="d1">854.2244985474935</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Bank and Monument" target="Liverpool Street LU">
+      <data key="d1">763.0916722884889</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Bank and Monument" target="Cannon Street LU">
+      <data key="d1">250.3180271748726</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Bank and Monument" target="Tower Hill">
+      <data key="d1">893.7993925122717</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Bank and Monument" target="Moorgate">
+      <data key="d1">761.4740044280247</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Bank and Monument" target="London Bridge LU">
+      <data key="d1">871.372914143818</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Liverpool Street LU" target="Bethnal Green LU">
+      <data key="d1">2372.2548309274252</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Liverpool Street LU" target="Aldgate">
+      <data key="d1">654.8366306872958</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Liverpool Street LU" target="Moorgate">
+      <data key="d1">366.83999724153875</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Liverpool Street LU" target="Aldgate East">
+      <data key="d1">898.6185153576564</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Bethnal Green LU" target="Mile End">
+      <data key="d1">1653.483443965302</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Mile End" target="Stratford">
+      <data key="d1">2786.062687483971</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Mile End" target="Stepney Green">
+      <data key="d1">1029.272377270718</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Mile End" target="Bow Road">
+      <data key="d1">624.9321658959553</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Stratford" target="Leyton">
+      <data key="d1">2105.6066450005883</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Stratford" target="West Ham">
+      <data key="d1">1605.7468609279708</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Leyton" target="Leytonstone">
+      <data key="d1">1663.8435602914801</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Leytonstone" target="Snaresbrook">
+      <data key="d1">1658.1506175069978</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Leytonstone" target="Wanstead">
+      <data key="d1">1667.4505513985857</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Snaresbrook" target="South Woodford">
+      <data key="d1">1315.8207360680178</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="South Woodford" target="Woodford">
+      <data key="d1">1711.954916013018</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Woodford" target="Buckhurst Hill">
+      <data key="d1">2333.6093461223836</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Woodford" target="Roding Valley">
+      <data key="d1">1392.4301328262165</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Buckhurst Hill" target="Loughton">
+      <data key="d1">1835.4744031274968</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Loughton" target="Debden">
+      <data key="d1">2052.1170899151425</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Debden" target="Theydon Bois">
+      <data key="d1">3322.1111580312913</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Theydon Bois" target="Epping">
+      <data key="d1">2625.4836875123306</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Wanstead" target="Redbridge">
+      <data key="d1">1180.385556374102</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Redbridge" target="Gants Hill">
+      <data key="d1">1457.7437616270238</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Gants Hill" target="Newbury Park">
+      <data key="d1">2357.7571209039966</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Newbury Park" target="Barkingside">
+      <data key="d1">1130.554421656149</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Barkingside" target="Fairlop">
+      <data key="d1">1168.7298360119833</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Fairlop" target="Hainault">
+      <data key="d1">878.6835661434217</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Hainault" target="Grange Hill">
+      <data key="d1">1107.6486099741437</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Grange Hill" target="Chigwell">
+      <data key="d1">1346.9127306216296</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="Chigwell" target="Roding Valley">
+      <data key="d1">2188.6593657404715</data>
+      <data key="d2">Central</data>
+    </edge>
+    <edge source="South Kensington" target="Sloane Square">
+      <data key="d1">1173.2223716014348</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="South Kensington" target="Gloucester Road">
+      <data key="d1">751.3334794399693</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="South Kensington" target="Knightsbridge">
+      <data key="d1">1300.8153185331275</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Sloane Square" target="Victoria LU">
+      <data key="d1">1165.759013228848</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Gloucester Road" target="High Street Kensington">
+      <data key="d1">1005.1187862241649</data>
+      <data key="d2">Circle</data>
+    </edge>
+    <edge source="Gloucester Road" target="Earl's Court">
+      <data key="d1">910.1212138490863</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="High Street Kensington" target="Earl's Court">
+      <data key="d1">1300.8601111818255</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Victoria LU" target="St. James's Park">
+      <data key="d1">777.3055963189232</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Victoria LU" target="Pimlico">
+      <data key="d1">1399.8781509033906</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Victoria LU" target="Green Park">
+      <data key="d1">1209.5998088020804</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="St. James's Park" target="Westminster">
+      <data key="d1">560.7493399067743</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Westminster" target="Green Park">
+      <data key="d1">1423.7801946061738</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Temple" target="Blackfriars LU">
+      <data key="d1">752.0407994032516</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Blackfriars LU" target="Mansion House">
+      <data key="d1">660.2642961231377</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Mansion House" target="Cannon Street LU">
+      <data key="d1">248.1787061508472</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Tower Hill" target="Aldgate">
+      <data key="d1">597.1867971235625</data>
+      <data key="d2">Circle</data>
+    </edge>
+    <edge source="Tower Hill" target="Aldgate East">
+      <data key="d1">839.2339844115774</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Great Portland Street" target="Euston Square">
+      <data key="d1">619.9602182594983</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Euston Square" target="King's Cross St. Pancras">
+      <data key="d1">1039.478679695132</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Farringdon">
+      <data key="d1">1783.5755332705016</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Euston LU">
+      <data key="d1">825.4567104348663</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Angel">
+      <data key="d1">1180.3187207304168</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Russell Square">
+      <data key="d1">870.5007047432584</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Caledonian Road">
+      <data key="d1">2034.7003654011005</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="King's Cross St. Pancras" target="Highbury &amp; Islington">
+      <data key="d1">2510.0114621247976</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Farringdon" target="Barbican">
+      <data key="d1">507.09323724368204</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Barbican" target="Moorgate">
+      <data key="d1">707.2883661951114</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Moorgate" target="Old Street">
+      <data key="d1">853.5197187449816</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Hammersmith" target="Goldhawk Road">
+      <data key="d1">1005.5893352451144</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Hammersmith" target="Barons Court">
+      <data key="d1">893.8320859207275</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hammersmith" target="Ravenscourt Park">
+      <data key="d1">840.1029182544783</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Hammersmith" target="Turnham Green">
+      <data key="d1">2154.156716749027</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Goldhawk Road" target="Shepherd's Bush Market">
+      <data key="d1">439.28942248745847</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Shepherd's Bush Market" target="Wood Lane">
+      <data key="d1">526.2629552444895</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Wood Lane" target="Latimer Road">
+      <data key="d1">553.8620754401112</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Latimer Road" target="Ladbroke Grove">
+      <data key="d1">659.5805348395407</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Ladbroke Grove" target="Westbourne Park">
+      <data key="d1">805.9399274327319</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Westbourne Park" target="Royal Oak">
+      <data key="d1">969.4042460431697</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Earl's Court" target="West Kensington">
+      <data key="d1">944.0652943037294</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Earl's Court" target="West Brompton">
+      <data key="d1">567.3891917621523</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Earl's Court" target="Kensington (Olympia)">
+      <data key="d1">1546.69117597488</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Earl's Court" target="Barons Court">
+      <data key="d1">1504.7980653611085</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="West Kensington" target="Barons Court">
+      <data key="d1">563.6761451116018</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Ravenscourt Park" target="Stamford Brook">
+      <data key="d1">709.2895541696763</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Stamford Brook" target="Turnham Green">
+      <data key="d1">610.2892102797117</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Turnham Green" target="Chiswick Park">
+      <data key="d1">950.3729810236244</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Turnham Green" target="Gunnersbury">
+      <data key="d1">1547.3179979156525</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Turnham Green" target="Acton Town">
+      <data key="d1">2222.54222335165</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Chiswick Park" target="Acton Town">
+      <data key="d1">1274.9448068885831</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Acton Town" target="Ealing Common">
+      <data key="d1">1026.6228291377595</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Acton Town" target="South Ealing">
+      <data key="d1">2127.9392140339933</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Ealing Common" target="North Ealing">
+      <data key="d1">924.4084541342581</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Richmond" target="Kew Gardens">
+      <data key="d1">2168.1632640796356</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Kew Gardens" target="Gunnersbury">
+      <data key="d1">1780.280918947994</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="West Brompton" target="Fulham Broadway">
+      <data key="d1">942.7618764086558</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Wimbledon" target="Wimbledon Park">
+      <data key="d1">1633.8137377047294</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Wimbledon Park" target="Southfields">
+      <data key="d1">1359.649769982491</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Southfields" target="East Putney">
+      <data key="d1">1630.8880949905085</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="East Putney" target="Putney Bridge">
+      <data key="d1">1058.565590270464</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Putney Bridge" target="Parsons Green">
+      <data key="d1">994.4623493164679</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Parsons Green" target="Fulham Broadway">
+      <data key="d1">702.3383314280723</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Aldgate East" target="Whitechapel">
+      <data key="d1">912.3411309496938</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Whitechapel" target="Stepney Green">
+      <data key="d1">1029.1712456388832</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Bow Road" target="Bromley-by-Bow">
+      <data key="d1">1008.7699093618673</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Bromley-by-Bow" target="West Ham">
+      <data key="d1">1186.2447003282855</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="West Ham" target="Plaistow">
+      <data key="d1">903.8346512115627</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="West Ham" target="Canning Town">
+      <data key="d1">1664.0023402543534</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Plaistow" target="Upton Park">
+      <data key="d1">1321.0786434318882</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Upton Park" target="East Ham">
+      <data key="d1">1300.245826580477</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="East Ham" target="Barking">
+      <data key="d1">2403.7728270393354</data>
+      <data key="d2">Hammersmith &amp; City</data>
+    </edge>
+    <edge source="Barking" target="Upney">
+      <data key="d1">1347.8162861079907</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Upney" target="Becontree">
+      <data key="d1">1927.1569041478324</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Becontree" target="Dagenham Heathway">
+      <data key="d1">1428.2007770670953</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Dagenham Heathway" target="Dagenham East">
+      <data key="d1">1279.2277890495734</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Dagenham East" target="Elm Park">
+      <data key="d1">2295.788356383118</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Elm Park" target="Hornchurch">
+      <data key="d1">1544.3272116890414</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Hornchurch" target="Upminster Bridge">
+      <data key="d1">1226.92948021644</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Upminster Bridge" target="Upminster">
+      <data key="d1">1285.041228194484</data>
+      <data key="d2">District</data>
+    </edge>
+    <edge source="Wembley Park" target="Kingsbury">
+      <data key="d1">2916.771558051341</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Wembley Park" target="Neasden">
+      <data key="d1">2353.165938195773</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Wembley Park" target="Preston Road">
+      <data key="d1">1419.735165763374</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Wembley Park" target="Finchley Road">
+      <data key="d1">7266.373927496304</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Kingsbury" target="Queensbury">
+      <data key="d1">1245.9952343636537</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Queensbury" target="Canons Park">
+      <data key="d1">1693.3073431971395</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Canons Park" target="Stanmore">
+      <data key="d1">1419.669476245655</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Canning Town" target="North Greenwich">
+      <data key="d1">1800.5179932846513</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="North Greenwich" target="Canary Wharf LU">
+      <data key="d1">1667.2574066939972</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Canary Wharf LU" target="Canada Water">
+      <data key="d1">2452.8823987554592</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Canada Water" target="Bermondsey">
+      <data key="d1">1003.058927158379</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Bermondsey" target="London Bridge LU">
+      <data key="d1">2087.826538422172</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="London Bridge LU" target="Southwark">
+      <data key="d1">1098.3490851025024</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="London Bridge LU" target="Borough">
+      <data key="d1">514.5938672619455</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Green Park" target="Hyde Park Corner">
+      <data key="d1">779.8893002668274</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="St. John's Wood" target="Swiss Cottage">
+      <data key="d1">969.940292804975</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Swiss Cottage" target="Finchley Road">
+      <data key="d1">645.3527442252525</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Finchley Road" target="West Hampstead LU">
+      <data key="d1">695.6171315380938</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Neasden" target="Dollis Hill">
+      <data key="d1">785.583013754715</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Dollis Hill" target="Willesden Green">
+      <data key="d1">1246.1093817929377</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Willesden Green" target="Kilburn">
+      <data key="d1">1185.0579298370521</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Kilburn" target="West Hampstead LU">
+      <data key="d1">1014.8261506350019</data>
+      <data key="d2">Jubilee</data>
+    </edge>
+    <edge source="Uxbridge" target="Hillingdon">
+      <data key="d1">2144.395127372446</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hillingdon" target="Ickenham">
+      <data key="d1">1124.4371952028946</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Ickenham" target="Ruislip">
+      <data key="d1">1785.6549823482703</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Ruislip" target="Ruislip Manor">
+      <data key="d1">678.8859802386196</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Ruislip Manor" target="Eastcote">
+      <data key="d1">1126.23905220522</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Eastcote" target="Rayners Lane">
+      <data key="d1">1819.3543779178124</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Rayners Lane" target="West Harrow">
+      <data key="d1">1364.112436410849</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Rayners Lane" target="South Harrow">
+      <data key="d1">1805.5567061358433</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="West Harrow" target="Harrow-on-the-Hill">
+      <data key="d1">1241.868690353787</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Harrow-on-the-Hill" target="North Harrow">
+      <data key="d1">1979.62872248195</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Harrow-on-the-Hill" target="Northwick Park">
+      <data key="d1">1303.1318574247339</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Amersham" target="Chalfont &amp; Latimer">
+      <data key="d1">3385.660147356431</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Chalfont &amp; Latimer" target="Chorleywood">
+      <data key="d1">3512.853291457741</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Chalfont &amp; Latimer" target="Chesham">
+      <data key="d1">6315.936388258687</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Chorleywood" target="Rickmansworth">
+      <data key="d1">3551.3532405638584</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Rickmansworth" target="Moor Park">
+      <data key="d1">3397.21945799626</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Moor Park" target="Northwood">
+      <data key="d1">2218.299112408396</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Moor Park" target="Croxley">
+      <data key="d1">2910.1506484060355</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Northwood" target="Northwood Hills">
+      <data key="d1">1586.668884713177</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Northwood Hills" target="Pinner">
+      <data key="d1">2158.6485916960637</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Pinner" target="North Harrow">
+      <data key="d1">1517.7554108908537</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Northwick Park" target="Preston Road">
+      <data key="d1">1733.1337992219949</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Croxley" target="Watford">
+      <data key="d1">2054.878524659683</data>
+      <data key="d2">Metropolitan</data>
+    </edge>
+    <edge source="Edgware" target="Burnt Oak">
+      <data key="d1">1518.129678863644</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Burnt Oak" target="Colindale">
+      <data key="d1">1306.4220496936825</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Colindale" target="Hendon Central">
+      <data key="d1">2152.513378983127</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Hendon Central" target="Brent Cross">
+      <data key="d1">1133.6073424740207</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Brent Cross" target="Golders Green">
+      <data key="d1">1515.0891033189823</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Golders Green" target="Hampstead">
+      <data key="d1">2385.725907181416</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Hampstead" target="Belsize Park">
+      <data key="d1">1178.0031040921838</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Belsize Park" target="Chalk Farm">
+      <data key="d1">1038.1009394876046</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Chalk Farm" target="Camden Town">
+      <data key="d1">993.7771470066834</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Camden Town" target="Euston LU">
+      <data key="d1">1352.9934174544023</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Camden Town" target="Kentish Town">
+      <data key="d1">1277.965642769005</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Camden Town" target="Mornington Crescent">
+      <data key="d1">593.8127865687215</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Euston LU" target="Mornington Crescent">
+      <data key="d1">762.7832046384897</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Euston LU" target="Warren Street">
+      <data key="d1">514.2546652592937</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Angel" target="Old Street">
+      <data key="d1">1520.654760289358</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Kennington" target="Oval">
+      <data key="d1">915.1576843385167</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Oval" target="Stockwell">
+      <data key="d1">1284.0245384010545</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Stockwell" target="Clapham North">
+      <data key="d1">952.3018787751562</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Stockwell" target="Brixton LU">
+      <data key="d1">1586.737541301782</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Stockwell" target="Vauxhall LU">
+      <data key="d1">1506.855709509329</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Clapham North" target="Clapham Common">
+      <data key="d1">642.7574913786304</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Clapham Common" target="Clapham South">
+      <data key="d1">1252.3182327348222</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Clapham South" target="Balham LU">
+      <data key="d1">1172.6346008163114</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Balham LU" target="Tooting Bec">
+      <data key="d1">975.1654216105981</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Tooting Bec" target="Tooting Broadway">
+      <data key="d1">1074.961442345419</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Tooting Broadway" target="Colliers Wood">
+      <data key="d1">1280.4196837865227</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Colliers Wood" target="South Wimbledon">
+      <data key="d1">1078.4681359939525</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="South Wimbledon" target="Morden">
+      <data key="d1">1533.2463105579166</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Finchley Central" target="Mill Hill East">
+      <data key="d1">1522.2024425506156</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Finchley Central" target="West Finchley">
+      <data key="d1">1236.7909481571323</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Finchley Central" target="East Finchley">
+      <data key="d1">2370.5565452766623</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="High Barnet" target="Totteridge &amp; Whetstone">
+      <data key="d1">2592.6305011470376</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Totteridge &amp; Whetstone" target="Woodside Park">
+      <data key="d1">1477.101696750776</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Woodside Park" target="West Finchley">
+      <data key="d1">946.474346896283</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="East Finchley" target="Highgate">
+      <data key="d1">1749.0206582100698</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Highgate" target="Archway">
+      <data key="d1">1590.2047962152985</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Archway" target="Tufnell Park">
+      <data key="d1">993.5361118865006</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Tufnell Park" target="Kentish Town">
+      <data key="d1">764.6010081567629</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Warren Street" target="Goodge Street">
+      <data key="d1">532.5730091543625</data>
+      <data key="d2">Northern</data>
+    </edge>
+    <edge source="Leicester Square" target="Covent Garden">
+      <data key="d1">365.53129908227436</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="South Ealing" target="Northfields">
+      <data key="d1">452.9452906768377</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Knightsbridge" target="Hyde Park Corner">
+      <data key="d1">583.9535882999082</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Caledonian Road" target="Holloway Road">
+      <data key="d1">615.2974429781588</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Holloway Road" target="Arsenal">
+      <data key="d1">666.709135884527</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Arsenal" target="Finsbury Park">
+      <data key="d1">772.7526932281161</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Finsbury Park" target="Manor House">
+      <data key="d1">1116.1136272204067</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Finsbury Park" target="Highbury &amp; Islington">
+      <data key="d1">1985.5024129085773</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Finsbury Park" target="Seven Sisters">
+      <data key="d1">3363.380660871542</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Manor House" target="Turnpike Lane">
+      <data key="d1">2321.6593584487405</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Turnpike Lane" target="Wood Green">
+      <data key="d1">930.8256254031667</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Wood Green" target="Bounds Green">
+      <data key="d1">1505.437914405501</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Bounds Green" target="Arnos Grove">
+      <data key="d1">1354.242490376241</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Arnos Grove" target="Southgate">
+      <data key="d1">1979.148586613327</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Southgate" target="Oakwood">
+      <data key="d1">1865.6448541162079</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Oakwood" target="Cockfosters">
+      <data key="d1">1343.9783464005811</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="South Harrow" target="Sudbury Hill">
+      <data key="d1">1485.46565903417</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Sudbury Hill" target="Sudbury Town">
+      <data key="d1">1617.0566152944368</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Sudbury Town" target="Alperton">
+      <data key="d1">1660.357282042228</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Alperton" target="Park Royal">
+      <data key="d1">1922.398209631674</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Park Royal" target="North Ealing">
+      <data key="d1">1099.65845062839</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Heathrow Terminals 123 LU" target="Hatton Cross">
+      <data key="d1">2412.750945791261</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Heathrow Terminals 123 LU" target="Heathrow Terminal 5 LU">
+      <data key="d1">2455.278475636385</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hatton Cross" target="Hounslow West">
+      <data key="d1">2803.4736612469396</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hounslow West" target="Hounslow Central">
+      <data key="d1">1479.0836919964388</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hounslow Central" target="Hounslow East">
+      <data key="d1">745.6843834209182</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Hounslow East" target="Osterley">
+      <data key="d1">967.4946724432384</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Osterley" target="Boston Manor">
+      <data key="d1">2560.814291261145</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Boston Manor" target="Northfields">
+      <data key="d1">930.8521452439904</data>
+      <data key="d2">Piccadilly</data>
+    </edge>
+    <edge source="Vauxhall LU" target="Pimlico">
+      <data key="d1">825.3282533075347</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Seven Sisters" target="Tottenham Hale LU">
+      <data key="d1">1111.0314387218991</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Tottenham Hale LU" target="Blackhorse Road">
+      <data key="d1">1384.1883313218277</data>
+      <data key="d2">Victoria</data>
+    </edge>
+    <edge source="Blackhorse Road" target="Walthamstow Central">
+      <data key="d1">1475.0215946819703</data>
+      <data key="d2">Victoria</data>
+    </edge>
+  </graph>
+</graphml>
